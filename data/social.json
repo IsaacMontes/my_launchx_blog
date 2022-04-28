@@ -3,12 +3,12 @@
     {
       "name": "facebook",
       "url": "https://www.facebook.com/profile.php?id=100007324504375",
-      "image": "images/social/twitter.svg"
+      "image": "https://github.com/IsaacMontes/my_launchx_blog/blob/master/data/ajolonauta.png"
     },
     {
       "name": "IsaacMontes",
       "url": "https://github.com/IsaacMontes?tab=repositories",
-      "image": "images/social/github.svg"
+      "image": "https://github.com/IsaacMontes/my_launchx_blog/blob/master/data/ajolonauta.png"
     }
   ]
 }
