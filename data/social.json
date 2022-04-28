@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=100007324504375",
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "name": "IsaacMontes",
+      "url": "https://github.com/IsaacMontes?tab=repositories",
       "image": "images/social/github.svg"
     }
   ]
